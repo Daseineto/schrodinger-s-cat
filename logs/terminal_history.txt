@@ -1,0 +1,366 @@
+    1  sudo apt update
+    2  apt list --upgradable
+    3  pwd
+    4  ls
+    5  ls/
+    6  ls /
+    7  ls /home
+    8  ls /home/kali
+    9  ls
+   10  touch Desktop/test
+   11  ls
+   12  ls/Desktop
+   13  ls Desktop
+   14  nano test]
+   15  cat test
+   16  nano test
+   17  ls test
+   18  ls Desktop 
+   19  ls Desktop/test
+   20  nano test
+   21  Desktop
+   22  ls test 
+   23  cat test
+   24  nano test
+   25  cat test
+   26  cd pwd
+   27  pwd
+   28  ls -a
+   29  ..pwd
+   30  pwd
+   31  cd /home pwd 
+   32  cd /home
+   33  pwd 
+   34  pwd cd..pwd 
+   35  pwd
+   36  cd..
+   37  cd ..
+   38  pwd
+   39  cd /etc
+   40  pwd
+   41  cd
+   42  pwd
+   43  mkdir -p dir1/dir2
+   44  ls
+   45  ls 
+   46  ls dir1
+   47  touch test
+   48  cp test dir1/dir2/
+   49  mv test dir1/
+   50  touch batumi
+   51  mv batumi zugdidi
+   52  who
+   53  last
+   54  sudo apt install wtmpdb
+   55  yes
+   56  hello
+   57  touch kubdari
+   58  pwd
+   59  touch kubdari
+   60  pwd
+   61  tmp kubdari
+   62  touch tmp kubdari
+   63  ^[[200~?????????(emocean???vbox)-[~]
+   64  ??????$ hello
+   65  Command 'hello' not found, but can be installed with:
+   66  sudo apt install hello
+   67  touch kubdari
+   68  pwd
+   69  touch tmp kubdari
+   70  find -name kubdari 2>dev/null
+   71  is kubdari
+   72  is tmp kubdari
+   73  is /tmp/kubdari
+   74  touch kubdari
+   75  pwd
+   76  touch/kubdari
+   77  touch /kubdari 
+   78  touch root/kubdari
+   79  touch /root/kubdari
+   80  is/root/kubdari
+   81  is /root/kubdari
+   82  root kali
+   83  pwd
+   84  touch kubdari 
+   85  pwd 
+   86  touch /kmp/kubdari
+   87  touch /tmp/kubdari
+   88  find -name kubdari 2>dev/null
+   89  touch /root/kubdari
+   90  touch /tmp/kubdari
+   91  find -name kubdari 2>dev/null
+   92  whoami
+   93  root@kali
+   94  find / -name /kubdari 2>/dev/null
+   95  is /tmp/kubdari
+   96  echo path
+   97  echo$path
+   98  echo $ path
+   99  echo $path
+  100  touch ~/kubdari
+  101  touch /tmp/kubdari
+  102  is ~/kubdari /tmp/kubdari  
+  103  /bin/is ~/kubdari /tmp/kubdari 
+  104  /bin/touch/ ~/kubdari
+  105  /bin/touch home/emocean/kubdari
+  106  /bin/is /home
+  107  pwd
+  108  pwd emocean
+  109  cat emocean
+  110  cat home
+  111  cat Home
+  112  p
+  113  pwd
+  114  find kubdari
+  115  who
+  116  find / -name /kubdari 2>/dev/null
+  117  is ~
+  118  find / -iname /kubdari 2>/dev/null
+  119  whoami
+  120  ls -l ~/kubdari
+  121  find / -name /kubdari 2>/dev/null
+  122  ls /tmp
+  123  find / -name /kubdari 2>/dev/null
+  124  find / -name kubdari 2>/dev/null
+  125  is/etc/passwd
+  126  cat /etc/passwd
+  127  cat /etc/shadow
+  128  sudo whoami
+  129  cat /etc/shadow
+  130  sudo cat /etc/shadow
+  131  pwc
+  132  pws
+  133  mkdir -p /home/kali/dir1/dir2/dir3
+  134  mkdir -p /home/emocean/dir1/dir2/dir3
+  135  cat /etc/shadow
+  136  groups
+  137  ls -l /etc/shadow/
+  138  ls -l /etc/shado
+  139  ls -l /etc/shadow
+  140  ls -l
+  141  ls -letc/shadow 
+  142  whoami
+  143  ls -l /etc/shadow
+  144  chmod u+x, g-w, o-w kubdari 
+  145  chmod 000 kubdari
+  146  mkdir -p /home/emocean/dir1/dir2/dir3\n
+  147  mkdir -p /home/emocean/dir1/dir2/dir3
+  148  mkdir -p /home/emocean/dir1/dir2/dir3
+  149  touch /home/emocean/dir1/{1,2,3,4,5}.txt \ 
+  150  touch /home/emocean/dir1/{1,2,3,4,5}.txt \ /home/emocean/dir1/dir2/{1,2,3,4,5}.pdf \ /home/emocean/dir1/dir2/dir3/{1,2,3,4,5}.png
+  151  bro you pissed me off 
+  152  touch /home/emocean/dir1/{1,2,3,4,5}.txt \ /home/emocean/dir1/dir2/{1,2,3,4,5}.pdf \ /home/emocean/dir1/dir2/dir3/{1,2,3,4,5}.png
+  153  touch /home/emocean/dir1/1.txt
+  154  touch /home/emocean/dir1/2.txt
+  155  r /home/emocean/dir1/dir2/dir3\n
+  156  mkdir -p /home/emocean/dir1/dir2/dir3
+  157  touch ~/dir1/{1,2,3,4,5}.txt ~/dir1/{1,2,3,4,5}.pdf ~/dir3/{1,2,3,4,5}.png
+  158  lsblk
+  159  codium
+  160  sudo apt update 
+  161  -O/usr/share/keyrings/kali-archive-keyring.gpg
+  162  sudo apt install cawsey 
+  163  mkdir /tmp/eteri /tmp/terashvili
+  164  chmod o-rwx /tmp/eteri
+  165  chmod o-rwx /tmp/terashvili
+  166  ls -l /tmp/ | grep -E "eteri terashvili"
+  167  groupadd groupA
+  168  groupadd groupB
+  169  whoami
+  170  sudo su
+  171  mkdir -p /home/emocean/dir1/dir2/dir3
+  172  touch ~/dir1/{1,2,3,4,5}.txt ~/dir1/{1,2,3,4,5}.pdf ~/dir3/{1,2,3,4,5}.png
+  173  touch r3/{1,2,3,4,5}.png
+  174  r /home/emocean/dir1/dir2/dir3\ntouch ~/dir3/1.png
+  175  touch ~/dir3/1.png\n
+  176  w
+  177  reset
+  178  lsblk
+  179  codium .
+  180  sudo apt up
+  181  lsblk
+  182  codium
+  183  sudo apt update
+  184  sudo wget https://archive.kali.org/archive-keyring.gpg -O /usr/share/keyrings/kali-archive-keyring.gpg
+  185  sudo apt update 
+  186  sudo apt install -y virtualbox-guest-x11
+  187  sudo apt install -y gcc make per1
+  188  sudo apt install -y gcc make perl
+  189  cd /media/cdrom/
+  190  ls
+  191  sudo ./autorun.sh
+  192  sudo ./runasroot.sh
+  193  ls -l
+  194  ./autorun.sh
+  195  tsblk
+  196  \M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[/media/cdrom0]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ sudo apt update\nError: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)\nError: Unable to lock directory /var/lib/apt/lists/\nWarning: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoveCaches (13: Permission denied)\nWarning: Problem unlinking the file /var/cache/apt/srcpkgcache.bin - RemoveCaches (13: Permission denied)\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[/media/cdrom0]\n
+  197  sudo apt update
+  198  apt list --upgradable
+  199  mkdir -p dir1/dir2
+  200  pwd
+  201  cd/home/emocean
+  202  cd /home/emocean
+  203  pwd
+  204  mkdir -p dir1/dir2
+  205  ls
+  206  reset
+  207  touch test
+  208  ls
+  209  cp test dir1/dir2/
+  210  mv test dir1/
+  211  touch batumi
+  212  mv batumi zugdidi
+  213  rm -rf >/*
+  214  touch sursati
+  215  vi sursati
+  216  cat sursati
+  217  head -n 5 /etc/passwd
+  218  tail -n 3 /etc/passwd
+  219  pwd
+  220  touch /home/username/kubdari
+  221  touch/home/username/kubdari
+  222  touch kubdari
+  223  touch /tmp/kubdari
+  224  2>/dev/null
+  225  vi
+  226  sudo find / -name kubdari 2>/dev/null
+  227  ps -u emocean
+  228  ps aux | grep emocean
+  229  who
+  230  ps aux | grep vi
+  231  kill 225394
+  232  kill -9 225394
+  233  kill225394
+  234  kill -9225394
+  235  ps aux | grep '[v]i /tmp/kubdari'
+  236  pwd
+  237  cd/home/emocean
+  238  cd /home/emocean
+  239  pwd
+  240  sudo apt update
+  241  sudo apt install git
+  242  git config --global user.name "daseineto"
+  243  git config --global user.email "Daseineto@gmail.com"
+  244  mkdir schrodinger-s-cat
+  245  cd schrodinger-s-cat
+  246  git init
+  247  \M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[/media/cdrom0]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ pwd\n/media/cdrom0\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[/media/cdrom0]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ cd/home/emocean      \nzsh: no such file or directory: cd/home/emocean\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[/media/cdrom0]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ cd /home/emocean \n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ pwd\n/home/emocean\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ sudo apt update                      \n[sudo] password for emocean: \nGet:1 http://kali.download/kali kali-rolling InRelease [34.0 kB]\nErr:1 http://kali.download/kali kali-rolling InRelease\n  Sub-process /usr/bin/sqv returned an error code (1), error message is: Verifying signature:            Not live until 2026-04-08T06:47:19Z\nFetched 34.0 kB in 0s (74.1 kB/s)\n415 packages can be upgraded. Run 'apt list --upgradable' to see them.\nWarning: An error occurred during the signature verification. The repository is not updated and the previous index files will be used. OpenPGP signature verification failed: http://kali.download/kali kali-rolling InRelease: Sub-process /usr/bin/sqv returned an error code (1), error message is: Verifying signature:            Not live until 2026-04-08T06:47:19Z\nWarning: Failed to fetch http://http.kali.org/kali/dists/kali-rolling/InRelease  Sub-process /usr/bin/sqv returned an error code (1), error message is: Verifying signature:            Not live until 2026-04-08T06:47:19Z\nWarning: Some index files failed to download. They have been ignored, or old ones used instead.\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ sudo apt install git             \nUpgrading:                      \n  git  git-man\n                                                                             \nSummary:\n  Upgrading: 2, Installing: 0, Removing: 0, Not Upgrading: 413\n  Download size: 11.4 MB\n  Space needed: 1055 kB / 4098 MB available\n\nContinue? [Y/n] yes\nGet:1 http://kali.download/kali kali-rolling/main arm64 git arm64 1:2.53.0-1 [9077 kB]\nGet:2 http://kali.download/kali kali-rolling/main arm64 git-man all 1:2.53.0-1 [2326 kB]\nFetched 11.4 MB in 2s (5441 kB/s)\n(Reading database ... 421391 files and directories currently installed.)\nPreparing to unpack .../git_1%3a2.53.0-1_arm64.deb ...\nUnpacking git (1:2.53.0-1) over (1:2.51.0-1+b1) ...\nPreparing to unpack .../git-man_1%3a2.53.0-1_all.deb ...\nUnpacking git-man (1:2.53.0-1) over (1:2.51.0-1) ...\nSetting up git-man (1:2.53.0-1) ...\nSetting up git (1:2.53.0-1) ...\nProcessing triggers for man-db (2.13.1-1+b1) ...\nProcessing triggers for kali-menu (2026.1.5) ...\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ git config --global user.name "daseineto"\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ git config --global user.email "Daseineto@gmail.com"\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ mkdir schrodinger-s-cat\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ cd schrodinger-s-cat\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~/schrodinger-s-cat]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ git init                                            \nhint: Using 'master' as the name for the initial branch. This default branch name                                                                         \nhint: will change to "main" in Git 3.0. To configure the initial branch name\nhint: to use in all of your new repositories, which will suppress this warning,                                                                           \nhint: call:\nhint:\nhint:   git config --global init.defaultBranch <name>\nhint:\nhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and\nhint: 'development'. The just-created branch can be renamed via this command:\nhint:\nhint:   git branch -m <name>\nhint:\nhint: Disable this message with "git config set advice.defaultBranchName false"                                                                           \nInitialized empty Git repository in /home/emocean/schrodinger-s-cat/.git/\n                                                                     
+  248  git config --global init.defaultBranch main
+  249  git branch -m main
+  250  sudo timedatectl set-ntp true
+  251  ls
+  252  touch homework.txt
+  253  git status
+  254  \M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~/schrodinger-s-cat]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ \n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~/schrodinger-s-cat]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ git config --global init.defaultBranch main\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~/schrodinger-s-cat]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ git branch -m main\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~/schrodinger-s-cat]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ sudo timedatectl set-ntp true\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~/schrodinger-s-cat]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ ls\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~/schrodinger-s-cat]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ touch homework.txt\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~/schrodinger-s-cat]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ git status        \nOn branch main\n\nNo commits yet\n\nUntracked files:\n  (use "git add <file>..." to include in what will be committed)\n        homework.txt\n\nnothing added to commit but untracked files present (use "g\n\n\ngit add homework.txt\ngit commit -m "Add homework.txt"
+  255  git add homework.txt
+  256  git commit -m "Add homework.txt"
+  257  git remote add origin <schrodinger-s-cat.git>
+  258  git remote add origin https://github.com/Daseineto/schrodinger-s-cat.git
+  259  git push -u origin main
+  260  git log
+  261  nano homework.txt
+  262  touch homework.sh
+  263  nano homework.sh
+  264  git clone https://github.com/daseineto/repo.git
+  265  git clone https://github.com/daseineto/repo.git\n
+  266  echo "# schrodinger-s-cat" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/Daseineto/schrodinger-s-cat.git\ngit push -u origin main
+  267  sudo fdisk -l
+  268  sudo fdisk /dev/sdb
+  269  sudo mkfs.ext4 /dev/sdb1
+  270  sudo mkdir /mnt/newdisk
+  271  sudo mount /dev/sdb1 /mnt/newdisk
+  272  lsblk
+  273  sudo fdisk -l
+  274  sudo fdisk /dev/sdb
+  275  lsblk
+  276  sudo mkfs.ext4 /dev/sdb1
+  277  sudo mount /dev/sdb1 /mnt/newdisk
+  278  df -h
+  279  echo "Hello from new disk" | sudo tee /mnt/newdisk/test.txt
+  280  \n  Generic\n   d   delete a partition\n   F   list free unpartitioned space\n   l   list known partition types\n   n   add a new partition\n   p   print the partition table\n   t   change a partition type\n   v   verify the partition table\n   i   print information about a partition\n   e   resize a partition\n   T   discard (trim) sectors\n\n  Misc\n   m   print this menu\n   u   change display/entry units\n   x   extra functionality (experts only)\n\n  Script\n   I   load disk layout from sfdisk script file\n   O   dump disk layout to sfdisk script file\n\n  Save & Exit\n   w   write table to disk and exit\n   q   quit without saving changes\n\n  Create a new label\n   g   create a new empty GPT partition table\n   G   create a new empty SGI (IRIX) partition table\n   o   create a new empty MBR (DOS) partition table\n   s   create a new empty Sun partition table\n\n\nCommand (m for help): n\nPartition type\n   p   primary (0 primary, 0 extended, 4 free)\n   e   extended (container for logical partitions)\nSelect (default p): p\nPartition number (1-4, default 1): \nFirst sector (2048-4441599, default 2048): \nLast sector, +/-sectors or +/-size{K,M,G,T,P} (2048-4441599, default 4441599): \n\nCreated a new partition 1 of type 'Linux' and of size 2.1 GiB.\n\nCommand (m for help): w\nThe partition table has been altered.\nCalling ioctl() to re-read partition table.\nSyncing disks.\n\n                                                                             \n\M-b\M-^T\M-^L\M-b\M-^T\M-^@\M-b\M-^T\M-^@(emocean\M-c\M-\t\M-?vbox)-[~]\n\M-b\M-^T\M-^T\M-b\M-^T\M-^@$ lsblk\nNAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS\nsda      8:0    0 21.1G  0 disk \n|-sda1   8:1    0   16M  0 part \n|-sda2   8:2    0  977M  0 part /boot/efi\n|-sda3   8:3    0   19G  0 part /\n`-sda4   8:4    0  1.1G  0 part [SWAP]\nsdb      8:16   0  2.1G  0 disk \n`-sdb1   8:17   0  2.1G  0 pa5dd
+  281  :10,20d
+  282  5dd
+  283  sed -i '10,20d' file.txt
+  284  Ctrl + Shift + V
+  285  echo "# schrodinger-s-cat" >> README.md\ngit init\ngit add README.md\ngit commit -m "first commit"\ngit branch -M main\ngit remote add origin https://github.com/Daseineto/schrodinger-s-cat.git\ngit push -u origin main
+  286  git push -u origin main
+  287  du -sh *
+  288  df -h
+  289  yum install nmap
+  290  dnf install nmap -y
+  291  sudo apt install nmap -y
+  292  nmap --version
+  293  nmap 127.0.0.1
+  294  git init
+  295  nmap 127.0.0.1
+  296  nmap -sV 127.0.0.1
+  297  sudo service ssh start
+  298  nmap -sV 127.0.0.1
+  299  sudo apt install apache2 -y
+  300  sudo service apache2 start 
+  301  nmap -sV 127.0.0.1
+  302  sudo service ssh stop 
+  303  nmap -p- -sV -sC --script=vuln 127.0.0.1 
+  304  Apache/2.4.66 (Debian)
+  305  http://127.0.0.1/server-status
+  306  sudo service apache2 stop
+  307  sudo netstat -tulpn | grep :80
+  308  nmap -sV 127.0.0.1
+  309  git status
+  310  git diff
+  311  git --no-pager diff\ngit --no-pager log --oneline
+  312  git --no-pager diff
+  313  git --no-pager status 
+  314  git --no-pager diff > my_diff.txt
+  315  git --no-pager log --oneline > history.txt
+  316  mkdir -p ~/saved_cache/firefox
+  317  mv ~/.cache/mozilla/firefox/w1wtbdlv.default-esr/* ~/saved_cache/firefox/
+  318  nano .gitignore
+  319  git rm -r --cached .cache\ngit commit -m "Remove browser cache from Git"
+  320  git rm --cached .cache
+  321  git rm -r --cached .cache
+  322  git commit -m "Remove browser cache from git"
+  323  git status
+  324  rsync -a ~/.cache/mozilla/firefox/ ~/saved_cache/firefox/
+  325  mkdir -p ~/saved_cache/firefox && \\nmv ~/.cache/mozilla/firefox/* ~/saved_cache/firefox/firefox_backup_$(date +%Y%m%d_%H%M%S) && \\necho ".cache/" >> .gitignore && \\ngit rm -r --cached .cache && \\ngit commit -m "Backup cache and ignore in Git"
+  326  git status
+  327  cat .gitignore
+  328  echo -e ".cache/\n.mozilla/firefox/" >> .gitignore
+  329  git rm -r --cached .mozilla/firefox\ngit rm -r --cached .cache
+  330  git status
+  331  .xsession-errors\nschrodinger-s-cat
+  332  git rm -r --cached .mozilla/firefox\ngit rm -r --cached .local/share/gvfs-metadata
+  333  git rm - r --cached .mozilla/firefox
+  334  git rm -r --cached .local/share/gvfs-metadata
+  335  git rm -r --cached .mozilla/firefox\ngit rm -r --cached .local/share/gvfs-metadata
+  336  ls ila 
+  337  ls -la
+  338  echo -e ".mozilla/\n.local/share/gvfs-metadata/" >> .gitignore\ngit add .gitignore\ngit commit -m "Ignore external cache folders"
+  339  git status 
+  340  git log --oneline -5
+  341  git log --oneline
+  342  git diff
+  343  git diff --staged 
+  344  cat <schrodinger-s-cat>
+  345  git ls-files | xargs ls -lh
+  346  cat homework.sh\ncat homework.txtes\ncat README.md
+  347  less <filename>
+  348  git ls-files | xargs ls -lh
+  349  git rm homework.sh\ngit rm homework.txtes
+  350  git commit -m "Remove tiny placeholder files"
+  351  git push 
+  352  git rm --cached homework.sh
+  353  cat README.md\ncat homework.sh\nless homework.sh.save
+  354  git ls-files
+  355  git status
+  356  git add homework.sh homework.txtes
+  357  git add .
+  358  git commit -m "Add all current code files"
+  359  git ls-files
+  360  git status
+  361  cat .gitignore
+  362  git add homework.sh homework.txtes
+  363  mv homework.sh.save homework.sh\ngit add homework.sh homework.txtes\ngit commit -m "Add all current code files"
+  364  git add homework.sh.save homework.txtes\ngit commit -m "Add all current code files"
+  365  git ls-files
+  366  mkdir -p ~/schrodinger-s-cat/logs
