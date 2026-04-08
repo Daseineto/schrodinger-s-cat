@@ -364,3 +364,12 @@
   364  git add homework.sh.save homework.txtes\ngit commit -m "Add all current code files"
   365  git ls-files
   366  mkdir -p ~/schrodinger-s-cat/logs
+  367  history > ~/schrodinger-s-cat/logs/terminal_history.txt
+  368  cp ~/path/to/your/homework.sh ~/schrodinger-s-cat/\ncp ~/path/to/your/homework.txtes ~/schrodinger-s-cat/
+  369  ls -lh 
+  370  git status 
+  371  git rm --cached homework.sh.save
+  372  git add homework.sh logs/
+  373  git commit -m "Save current code and terminal history"
+  374  git status\ngit ls-files
+  375  git push origin main
